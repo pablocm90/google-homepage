@@ -1,0 +1,11 @@
+.center {
+  margin: 0 auto;
+  line-height: 200px;
+}
+
+.searchbar {
+  position: relative;
+  margin: auto;
+  display: block;
+
+}
