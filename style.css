@@ -1,11 +1,19 @@
-.center {
-  margin: 0 auto;
-  line-height: 200px;
-}
-
 .searchbar {
   position: relative;
   margin: auto;
   display: block;
+  width: 700px;
+}
 
+.button {
+  position: relative;
+  margin-left: 200px;
+  display: block;
+  width: 700px;
+}
+.image {
+  position: relative;
+  margin-left: 200px;
+  display: block;
+  width: 700px;
 }
